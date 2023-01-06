@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Elastic Search,Regex,python,Devops**
 
-- 💬 Ask me about **React,express**
+- 💬 Ask me about **React||Node||express**
 
 - 📫 How to reach me **callistus406@gmail.com**
 
