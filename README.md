@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [whatsapp-clone](https://github.com/callistus406/whatsapp-clone) and [capahelp](https://github.com/callistus406/capahelp)
 
-- 🌱 I’m currently learning **Elastic Search,Regex,python,Devops**
+- 🌱 I’m currently learning **Elastic Search,Kibana,Logstash,Regex,python And Devops**
 
 - 💬 Ask me about **React||Node||express**
 
