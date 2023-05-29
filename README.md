@@ -3,10 +3,10 @@
 
 💻 My Tech Stack:
 I'm proficient in a wide range of technologies and frameworks including:
-- Front-end: HTML, CSS, JavaScript, React, Nextjs
-- Back-end: Node.js, Express.js, Django
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
-- DevOps: Docker, Vagrant, AWS
+- DevOps: Docker, Vagrant, AWS,virtual machines
 - Version Control: Git
 - SEIM: Elasitic stack (Elastic search, Logstash and Kibana)
 
