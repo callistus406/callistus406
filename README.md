@@ -4,7 +4,7 @@
 💻 My Tech Stack:
 I'm proficient in a wide range of technologies and frameworks including:
 - Languages: Javascript, Typescript, python, Java
-- Front-end: HTML, CSS, JavaScript, React
+- Front-end: HTML, CSS, JavaScript,Typescript, React
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
 - DevOps: Docker, Vagrant, AWS,virtual machines
