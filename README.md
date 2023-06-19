@@ -7,7 +7,7 @@ I'm proficient in a wide range of technologies and frameworks including:
 - Front-end: HTML, CSS, JavaScript,Typescript, React
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
-- DevOps: Docker, Vagrant, AWS,virtual machines
+- DevOps: Docker, Vagrant, AWS,virtual machines Linux
 - Version Control: Git
 - SEIM: Elasitic stack (Elastic search, Logstash and Kibana)
 
