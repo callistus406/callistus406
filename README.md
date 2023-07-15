@@ -7,9 +7,9 @@ I'm proficient in a wide range of technologies and frameworks including:
 - Front-end: HTML, CSS, JavaScript,Typescript, React
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
-- DevOps: Docker, Vagrant, AWS,virtual machines Linux
+- DevOps: Docker, Vagrant, AWS,virtual machines, Linux
 - Version Control: Git
-- SEIM: Elasitic stack (Elastic search, Logstash and Kibana)
+- SEIM: Elasitic stack (Elastic search, Logstash and Kibana) And Splunk(on track)
 
 🌟 What I Do:
 I specialize in designing and developing end-to-end web solutions. From crafting elegant user interfaces to building robust server-side components, I enjoy the entire software development lifecycle. I have a keen eye for detail and strive to write clean, maintainable code that follows best practices and industry standards.
