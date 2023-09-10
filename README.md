@@ -84,4 +84,5 @@ Thanks for visiting my GitHub profile, and I look forward to connecting with you
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callistus406&show_icons=true&theme=synthwave)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=callistus406&theme=synthwave)](https://git.io/streak-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=callistus406)](https://github.com/anuraghazra/github-readme-stats)
 
