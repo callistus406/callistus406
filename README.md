@@ -10,6 +10,7 @@ I'm proficient in a wide range of technologies and frameworks including:
 - DevOps: Docker, Vagrant, AWS,virtual machines, Linux
 - Version Control: Git
 - SEIM: Elasitic stack (Elastic search ) And Splunk(on track)
+- Microservices(on track)
 
 
 🌟 What I Do:
