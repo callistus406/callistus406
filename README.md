@@ -8,7 +8,7 @@ I'm proficient in a wide range of technologies and frameworks including:
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
 - DevOps: Docker, AWS,virtual machines, Linux
-- Version Control: Git
+- Version Control: Git, BitBucket
 - SEIM: Elasitic stack (Elastic search ) And Splunk(on track)
 - Microservices(on track)
 
