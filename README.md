@@ -77,7 +77,7 @@ Thanks for visiting my GitHub profile, and I look forward to connecting with you
 
 ###
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=callistus406&show_icons=true) -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=callistus406&hide=html,css&theme=synthwave)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=callistus406&hide=html,css&theme=synthwave)-->
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callistus406&show_icons=true&theme=synthwave)-->
