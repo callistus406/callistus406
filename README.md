@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm UKAOBASI CALLISTUS</h1>
-<h3 align="center">A passionate full-stack developer. I love building scalable and efficient web applications that deliver seamless user experiences.</h3>
+<h3 align="center">A passionate Software Engineer I love building scalable and efficient web applications that deliver seamless user experiences.</h3>
 
 💻 My Tech Stack:
 I'm proficient in a wide range of technologies and frameworks including:
 - Languages: Javascript, Typescript, python, Java
-- Front-end: HTML, CSS, JavaScript,Typescript, React, Nextjs
+- Front-end:  React, Nextjs
 - Back-end: Node.js, Express and Nestjs,Spring Boot
 - Databases: MongoDB, MySQL, PostgreSQL
 - DevOps: Docker, AWS,virtual machines, Linux
