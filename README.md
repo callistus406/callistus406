@@ -5,7 +5,7 @@
 I'm proficient in a wide range of technologies and frameworks including:
 - Languages: Javascript, Typescript, python, Java
 - Front-end:  React, Nextjs
-- Back-end: Node.js, Express and Nestjs,Spring Boot
+- Back-end: Node.js, Express and Nestjs,FastApi
 - Databases: MongoDB, MySQL, PostgreSQL
 - DevOps: Docker, AWS,virtual machines, Linux
 - Version Control: Git
